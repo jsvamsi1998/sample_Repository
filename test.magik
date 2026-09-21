@@ -3,3 +3,10 @@ def_slotted_Exemplar(:test,
 },
 
 {})
+
+$
+
+_method test.new()
+
+ return ttest
+_endmethod
